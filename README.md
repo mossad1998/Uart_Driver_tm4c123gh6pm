@@ -9,3 +9,5 @@ you are going to find three messeges which are:
 1.To Turn Red on Press R  
 2.To Turn Blue on Press B  
 3.To Turn Green on Press G  
+
+Depending on the input a led will response.
